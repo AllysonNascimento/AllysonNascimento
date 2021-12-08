@@ -1,10 +1,14 @@
 ## 👋 Oi, eu sou o Allyson Nascimento
 
+  <a href="https://https://www.youtube.com/c/sharkcode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sharkcode_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dryelallyson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/allyson-nascimento-2185021a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="left">
   <a href="https://github.com/AllysonNascimento">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllysonNascimento&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonNascimento&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ## 🖥️ Tecnologias na qual eu desenvolvo
@@ -18,7 +22,3 @@
 </div>
   
   
-  <a href="https://https://www.youtube.com/c/sharkcode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/sharkcode_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dryelallyson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/allyson-nascimento-2185021a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
